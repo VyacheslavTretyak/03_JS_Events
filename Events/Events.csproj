@@ -70,6 +70,8 @@
   <ItemGroup>
     <Content Include="index.html" />
     <Content Include="js1.js" />
+    <Content Include="js2.js" />
+    <Content Include="style.css" />
     <Content Include="task1.html" />
     <Content Include="task2.html" />
     <Content Include="task3.html" />
